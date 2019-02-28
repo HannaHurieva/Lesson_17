@@ -1,0 +1,20 @@
+Cooker
+Monday
+Lena Golovach:Dessert
+Vasa Pivivariv:Drinks
+Yulia Borsh:SecondDish
+Petia Kozlov:FirstDish
+#####
+Dish
+Monday
+SecondDish
+гречка с сосиской
+пюрешка с котлеткой
+FirstDish
+Борщик
+Drinks
+Пиво с водкой
+Морс
+Dessert
+Медовик
+
