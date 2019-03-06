@@ -24,4 +24,10 @@ public class MenuPoint {
     public String getSpecialization() {
         return specialization;
     }
+
+    @Override
+    public String toString() {
+        return title + " - " +
+                price + " грн ";
+    }
 }

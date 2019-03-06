@@ -6,13 +6,27 @@ import java.util.Map;
 
 public class Day {
 
+
+
     private String name;
 
-    private Map<String, List<Cooker>> cookersBySpecialization = new HashMap<>();
+    public Day(String name) {
+        this.name = name;
+    }
 
-    private Map<MenuPoint, String> specializationByMenuPoint;
+//    private Map<String, List<Cooker>> cookersBySpecialization = new HashMap<>();
 
-    public Day(Map<String, List<Cooker>> cookersBySpecialization) {
-        this.cookersBySpecialization = cookersBySpecialization;
+//    private Map<MenuPoint, String> specializationByMenuPoint;
+
+//    public Day(Map<String, List<Cooker>> cookersBySpecialization) {
+//        this.cookersBySpecialization = cookersBySpecialization;
+//    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
     }
 }

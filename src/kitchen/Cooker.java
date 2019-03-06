@@ -16,11 +16,13 @@ public class Cooker {
         return name + " " + surname;
     }
 
-// public String addDish(String dish) {
-//        return name + " add " + dish;
-//    }
-
     public String getSpecialization() {
         return specialization;
+    }
+
+    @Override
+    public String toString() {
+        return "Cooker " +
+                name + " " + surname;
     }
 }

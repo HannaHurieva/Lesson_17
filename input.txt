@@ -1,20 +1,15 @@
-Cooker
 Monday
 Lena Golovach:Dessert
-Vasa Pivivariv:Drinks
+Vasja Pivivariv:Drinks
 Yulia Borsh:SecondDish
 Petia Kozlov:FirstDish
+Ivan Kurganov:SecondDish
 #####
-Dish
 Monday
-SecondDish
-гречка с сосиской
-пюрешка с котлеткой
-FirstDish
-Борщик
-Drinks
-Пиво с водкой
-Морс
-Dessert
-Медовик
+гречка с сосиской:10грн 75коп:SecondDish
+пюрешка с котлеткой:15грн 30коп:SecondDish
+Борщик:12грн 65коп:FirstDish
+Пиво с водкой:25грн 90коп:Drinks
+Морс:7грн 15коп:Drinks
+Медовик:18грн 50коп:Dessert
 
